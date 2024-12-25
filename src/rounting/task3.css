@@ -1,0 +1,32 @@
+.list{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 10px;
+    padding-bottom: 30px;
+    font-size: larger;
+    border-bottom: 1px solid gray;
+    border-radius: 10px;
+    background-color: ghostwhite;
+}
+
+li{
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    padding-top: 40px;
+    font-size: xx-large;
+}
+
+.home{
+    color:blueviolet
+}
+
+.about{
+    color: brown;
+}
+
+
+

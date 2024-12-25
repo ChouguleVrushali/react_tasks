@@ -1,0 +1,35 @@
+#root {
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+  display: flex;
+}
+
+button {
+  background-color: #fff;
+  border-radius: 10px;
+  width: 200px;
+  margin: 10px 10px 10px 40px;
+  padding: 10px;
+  font-size: larger;
+}
+
+.main {
+  background-color: #f0f8ff;
+  border: 1px solid gray;
+  border-radius: 10px;
+  width: 300px;
+  height: 400px;
+  padding: 10px;
+}
+
+h1, h2 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+span {
+  color: brown;
+  font-size: x-large;
+}
+/*# sourceMappingURL=index.8cda6ad4.css.map */
